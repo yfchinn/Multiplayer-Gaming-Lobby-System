@@ -14,7 +14,7 @@ A multiplayer gaming platform supporting user registration, login, and room mana
 - `lobbyServer.cpp`: Main server logic for lobby and room management.
 - `client.cpp`: Client-side application for user interaction and gameplay.
 - `game1.cpp`, `game2.cpp`: Example game implementations.
-- `player_data.txt`: Stores player information (e.g., registration, stats).
+- `player_data.txt`: Stores player information.
 - `game_info.txt`: Stores metadata about uploaded/shared games.
 
 ## Adding Games
